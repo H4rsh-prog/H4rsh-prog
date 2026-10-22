@@ -7,3 +7,6 @@
   <a href="https://h4rsh-prog.github.io"><img src="https://github.com/user-attachments/assets/a2012ca3-704b-44c4-8cfa-a59737a4d3e7" width="40"></a>
   <a href="https://discord.com/users/329544402449989632"><img src="https://github.com/user-attachments/assets/bf808055-b814-4b8a-81b9-9ed45173c803" width="40"></a>
 </div>
+<div align="center">
+  <img width="150" height="150" alt="design-f1218523-f0d7-40f0-94c8-f6fb9dce1fc4" src="https://github.com/user-attachments/assets/a47e9e7c-fe93-44d5-ad3c-70d36a48a68d" />
+</div>
