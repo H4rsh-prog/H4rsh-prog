@@ -19,15 +19,15 @@
 ⢀⠂⡐⢀⠂⢈⠐⠠⠁⠂⠠⠀⠄⣹⣿⣿⣿⢧⠛⣼⣿⣿⣿⣿⣿⣻⠥⠓⠠⢈⡐⢀⠂⠈⠐⠠⠀⠀⠁⠀⠀⣿⢻⡇⢰⡁⠠⠀⠀⠀⠀⠀
 ⠀⢂⠐⠠⢈⠀⡐⠀⠡⢀⠁⡐⠀⠸⣿⣿⣋⠆⢫⠐⣿⣿⣿⣿⢏⡧⢋⡐⢁⢂⠰⢀⠂⠡⠈⠀⠀⠀⠀⠀⠀⢾⣻⡇⢸⡇⠠⡀⠀⠀⠀⠀
 ⠈⠠⢈⠐⡀⠂⠄⠁⢂⠠⠀⠠⠈⠐⣿⣿⣿⣾⡱⣟⣿⣿⢿⡽⣎⠧⢡⠐⡌⢠⠂⠄⡘⠀⠁⠀⠀⠀⠀⠀⠀⣾⣷⡇⢸⣿⠀⣡⠀⠀I'm a full stack Java SWE, My forte is mostly in the
-⠠⠁⢂⠐⠠⠁⡈⠐⡀⠄⠂⠁⠠⠁⠘⣿⣜⣢⢝⡩⣚⡽⣧⡛⣤⢋⡔⢣⡘⠤⡈⠄⣠⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⡧⢹⣿⡇⢐⠂⠀⠀domain of web development where i create architectural
-⠀⡁⢂⠈⡐⠠⢀⠁⠠⠀⠂⠁⠄⠂⠁⢸⣿⣯⣓⠶⣹⢻⡵⡹⢤⢣⡜⡱⣌⠣⢀⡙⠷⣀⠂⠀⠀⠀⡀⢀⠀⢹⣿⣟⡆⣿⣧⠀⢇⠀⠀⠀ micro-services using the Spring framework although i
-⠐⢀⠂⡐⠠⠐⢀⠈⠄⠠⠁⢀⠂⠠⠁⠀⠻⣿⣿⡻⢥⣋⠶⡙⢎⠳⣘⠡⢂⠔⡡⢠⣉⣤⣖⣮⡽⣧⢳⠆⡌⢸⣟⡿⣖⢻⣷⠈⠸⡀⠀ ⠀also do enjoy low level projects and
-⠀⢂⠐⠠⠐⠈⡀⠄⠂⢀⠂⢀⠠⠀⠐⠀⡀⠀⠈⠁⠁⠀⡀⠹⣮⣳⣌⣷⣿⣾⣿⣿⣿⠿⠟⠋⡉⠄⠉⠀⠄⢸⣿⣻⣟⢸⣿⠄⡁⢣⠀⠀  ⠀⠀micro-optimizations.
+⠠⠁⢂⠐⠠⠁⡈⠐⡀⠄⠂⠁⠠⠁⠘⣿⣜⣢⢝⡩⣚⡽⣧⡛⣤⢋⡔⢣⡘⠤⡈⠄⣠⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⡧⢹⣿⡇⢐⠂⠀⠀domain of web development where i create
+⠀⡁⢂⠈⡐⠠⢀⠁⠠⠀⠂⠁⠄⠂⠁⢸⣿⣯⣓⠶⣹⢻⡵⡹⢤⢣⡜⡱⣌⠣⢀⡙⠷⣀⠂⠀⠀⠀⡀⢀⠀⢹⣿⣟⡆⣿⣧⠀⢇⠀⠀⠀ architectural micro-services using the Spring
+⠐⢀⠂⡐⠠⠐⢀⠈⠄⠠⠁⢀⠂⠠⠁⠀⠻⣿⣿⡻⢥⣋⠶⡙⢎⠳⣘⠡⢂⠔⡡⢠⣉⣤⣖⣮⡽⣧⢳⠆⡌⢸⣟⡿⣖⢻⣷⠈⠸⡀⠀ ⠀ framework although i also do enjoy low level
+⠀⢂⠐⠠⠐⠈⡀⠄⠂⢀⠂⢀⠠⠀⠐⠀⡀⠀⠈⠁⠁⠀⡀⠹⣮⣳⣌⣷⣿⣾⣿⣿⣿⠿⠟⠋⡉⠄⠉⠀⠄⢸⣿⣻⣟⢸⣿⠄⡁⢣⠀⠀  ⠀⠀ projects and micro-optimizations.
 ⠐⡀⠌⢀⠂⢁⠠⠀⠌⠀⠠⠀⢀⠀⠂⠀⢀⠠⠐⠀⠈⠀⠀⣀⣿⣿⣿⣿⣿⡟⣏⢁⠂⡐⠈⠀⢀⠀⠄⠈⠀⠀⣿⣽⡾⡌⣿⡃⠰⣡⠂⠀ 
-⠀⠄⠂⠠⠈⡀⠄⠂⠐⠈⠀⠄⠀⡀⠠⠈⠀⠀⠀⠀⠄⠂⣡⣾⣿⣿⣿⣟⡷⣝⢆⠂⡐⠀⢀⠈⠀⠀⠀⢀⠀⠀⣿⣽⡷⣧⢙⡇⠀⡇⠆⠀  i love trying out new things and expanding my horizons,
-⠀⠌⢀⠡⠐⠀⡐⠈⢀⠂⠁⠠⠀⢀⠀⠀⢀⠀⠄⠂⠀⢰⣿⡿⣿⣽⣳⢯⡝⣎⠢⠐⡀⠂⠀⠀⠀⠀⠈⠀⠀⠀⢺⣿⣟⣿⢈⡧⠐⣬⣟⠀  ⠀acquiring skills and hobbies. few of my hobbies include
-⠀⠌⠀⠄⠂⢁⠀⡐⠀⠠⠈⠀⠄⠀⠀⠄⠀⠀⠀⠀⠠⣜⢯⡳⣷⢯⡽⣯⣛⢦⡃⢁⠀⠄⠀⠀⠀⠈⠀⠀⠀⠀⢹⣿⣿⡽⡌⡷⠈⣿⣻⠄⠀⠀⠀⠀art, philosophy and video games.
-⠀⠌⠐⠠⠈⡀⠄⠀⠌⠀⠐⠀⡀⠈⠀⠀⠠⠀⠀⢀⠲⣭⢿⠳⣏⣏⣳⢧⣟⣶⡹⡆⢀⠀⡀⠀⠐⠀⠀⠀⠀⠀⢸⣯⣟⣿⡒⣽⡃⢼⣟⡂  
+⠀⠄⠂⠠⠈⡀⠄⠂⠐⠈⠀⠄⠀⡀⠠⠈⠀⠀⠀⠀⠄⠂⣡⣾⣿⣿⣿⣟⡷⣝⢆⠂⡐⠀⢀⠈⠀⠀⠀⢀⠀⠀⣿⣽⡷⣧⢙⡇⠀⡇⠆⠀  i love trying out new things and expanding my
+⠀⠌⢀⠡⠐⠀⡐⠈⢀⠂⠁⠠⠀⢀⠀⠀⢀⠀⠄⠂⠀⢰⣿⡿⣿⣽⣳⢯⡝⣎⠢⠐⡀⠂⠀⠀⠀⠀⠈⠀⠀⠀⢺⣿⣟⣿⢈⡧⠐⣬⣟⠀  ⠀horizons, acquiring skills and hobbies. few of
+⠀⠌⠀⠄⠂⢁⠀⡐⠀⠠⠈⠀⠄⠀⠀⠄⠀⠀⠀⠀⠠⣜⢯⡳⣷⢯⡽⣯⣛⢦⡃⢁⠀⠄⠀⠀⠀⠈⠀⠀⠀⠀⢹⣿⣿⡽⡌⡷⠈⣿⣻⠄⠀⠀⠀my hobbies include art, philosophy and
+⠀⠌⠐⠠⠈⡀⠄⠀⠌⠀⠐⠀⡀⠈⠀⠀⠠⠀⠀⢀⠲⣭⢿⠳⣏⣏⣳⢧⣟⣶⡹⡆⢀⠀⡀⠀⠐⠀⠀⠀⠀⠀⢸⣯⣟⣿⡒⣽⡃⢼⣟⡂    ⠀⠀⠀ video games.
 ⠀⠌⡀⢁⠐⠀⡐⠈⢀⠈⢀⠐⠀⠀⠁⠀⠀⡀⠀⢆⡻⣜⢣⣛⡼⣼⡹⣟⢾⡳⢯⡱⠀⠐⠠⠁⠄⡀⠀⢀⠀⠀⢸⡳⢏⣿⡅⠊⠁⠚⠉⠀
 ⠀⢂⠀⢂⠈⠄⢀⠐⠀⡀⠂⠀⠐⠈⠀⠐⠀⠀⠠⣋⠶⣭⢖⣯⣞⣵⢻⡜⢧⡛⢧⡳⡌⠠⠁⢈⠀⢀⠁⡀⠀⠀⠲⣍⢏⢶⠃⠀⠀⠀⠀⠀
 ⠀⢂⠈⡀⠄⠂⠠⠀⠂⢀⠀⠁⠠⠀⠂⠀⠀⠂⢰⢭⡻⣼⣻⣶⣻⣜⢣⠞⡥⣋⢧⠳⣍⢂⠡⠀⠀⡀⢀⠠⠐⠀⠀⠀⠈⠀⠈⠀⠀⠀⠀⠀
